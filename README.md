@@ -23,6 +23,7 @@ This repo collects stuff about mentoring, mentorship. Any kind of links, talks, 
 * [Mollie, 8th Light, 2016](http://mollies.github.io/apprenticeship/2016/04/04/day-one.html)
 * [Chris Jordan, 8th Light, 2015](http://c-j-j.github.io/2015/01/07/transitioning-from-intellij-to-vimtmux.html)
 * [Georgina, 8th Light, 2015](http://gemcfadyen.github.io/georginam.com/apprenticeship/2015/10/05/apprenticeship-day-1.html)
+* [Colin Jones, 8th Light, 2009](https://softwareapprenticeship.wordpress.com/)
 
 ## Various related topics
 
