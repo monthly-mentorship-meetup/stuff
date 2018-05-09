@@ -25,6 +25,8 @@ This repo collects stuff about mentoring, mentorship. Any kind of links, talks, 
 * [Georgina, 8th Light, 2015](http://gemcfadyen.github.io/georginam.com/apprenticeship/2015/10/05/apprenticeship-day-1.html)
 * [Colin Jones, 8th Light, 2009](https://softwareapprenticeship.wordpress.com/)
 * [Raquel M Carmena, codurance, 2017](https://codurance.com/2017/03/03/discovering-Codurance-during-my-first-week-as-apprentice/)
+* [Daniel Bolívar, HolidayCheck 2018](https://www.dabolivar.com/)
+* [Uğurcan Şengit, HolidayCheck, 2018](https://www.sengitu.com/)
 
 ## Various related topics
 
